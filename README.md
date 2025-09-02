@@ -1,6 +1,6 @@
 ![Logo de CyMEZ](e378c0c9-ffd0-4971-9cc6-714b0f6d3f92.jpg)
 
-# CyMEZ – Seguridad Privada Nivel Pro  
+# CyMEZ – Seguridad Privada Nivel Clase Mundial
 ¡Bienvenido al repositorio de CyMEZ! Prepárate para descubrir qué hace única a esta empresa.
 
 ## ¿Quiénes somos?
