@@ -5,9 +5,9 @@
 
 ## ¿Quiénes somos?
 
-CyMEZ (Cymez S.A. de C.V.), fundada en 1997, es una empresa de **seguridad privada** con visión futurista: proveemos **personal, tecnología y procesos** de protección a industrias clave como **manufactura, petroquímica y energética** :contentReference[oaicite:0]{index=0}.
+CyMEZ (Cymez S.A. de C.V.), fundada en 1997, es una empresa de **seguridad privada** con visión futurista: proveemos **personal, tecnología y procesos** de protección a industrias clave como **manufactura, petroquímica y energética**.
 
-Con sede matriz en Reynosa, Tamaulipas, y presencia robusta en Nuevo León, Querétaro y Guanajuato, somos pioneros en el mercado fronterizo mexicano y fuimos la primera empresa privada en México en exportar servicios de seguridad privada a Estados Unidos :contentReference[oaicite:1]{index=1}.
+Con sede matriz en Reynosa, Tamaulipas, y presencia robusta en Nuevo León, Querétaro y Guanajuato, somos pioneros en el mercado fronterizo mexicano y fuimos la primera empresa privada en México en exportar servicios de seguridad privada a Estados Unidos.
 
 ## Nuestros Servicios
 
@@ -17,13 +17,13 @@ Ofrecemos una cartera completa y afila:
 - Custodia de personal y carga.  
 - Monitoreo remoto.  
 - Consultoría especializada en seguridad.  
-La lista no se queda corta: cubrimos desde lo físico hasta lo digital :contentReference[oaicite:2]{index=2}.
+La lista no se queda corta: cubrimos desde lo físico hasta lo digital.
 
 ## Cobertura
 
 Operamos desde la frontera sur del país hacia el centro:
 - **Matriz**: Reynosa, Tamaulipas.  
-- **Presencias**: Nuevo León, Querétaro y Guanajuato :contentReference[oaicite:3]{index=3}.
+- **Presencias**: Nuevo León, Querétaro y Guanajuato.
 
 ## Certificaciones y Permisos
 
@@ -32,23 +32,23 @@ Porque lo que importa es hacerlo bien y con reconocimiento:
   - BASC MEXGDL00162-1-9  
   - ISO 9001:2015 (ER-0176/2012)  
   - IQNET ES-0176/2012  
-  - D&B D-U-N-S: 81-263-4681 :contentReference[oaicite:4]{index=4}
+  - D&B D-U-N-S: 81-263-4681
 
 - **Permisos**:
   - Estatal Tamaulipas 28-042-2020  
   - Federal DGSP/264-11/1875  
   - Municipal Silao, GTO. 0313-III-33/2020  
   - Estatal Nuevo León DCSESP-502-20/I-II  
-  - Estatal Querétaro S.S.C./S.S.P./402 :contentReference[oaicite:5]{index=5}
+  - Estatal Querétaro S.S.C./S.S.P./402
 
 ## Contacto
 
 Haz equipo con nosotros:
-- Dirección: 16 de septiembre #800, Col. Longoria, Reynosa, Tamaulipas, C.P. 88660 :contentReference[oaicite:6]{index=6}  
+- Dirección: 16 de septiembre #800, Col. Longoria, Reynosa, Tamaulipas, C.P. 88660
 - Teléfono: (899) 921-8770 ext. 114, 143  
 - WhatsApp: 8998 783 751  
 - Correo: *[info@cymez.com](mailto:info@cymez.com)*  
-- Línea ética para anonimato y alta ética corporativa (si ves algo raro, dilo aquí) :contentReference[oaicite:7]{index=7}
+- Línea ética para anonimato y alta ética corporativa (si ves algo raro, dilo aquí)
 
 ## Vision & Futuro
 
