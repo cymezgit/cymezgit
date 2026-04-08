@@ -1,55 +1,60 @@
 ![Logo de CyMEZ](e378c0c9-ffd0-4971-9cc6-714b0f6d3f92.jpg)
 
-# CyMEZ – Seguridad Privada Nivel Clase Mundial
-¡Bienvenido al repositorio de CyMEZ! Prepárate para descubrir qué hace única a esta empresa.
+# CyMEZ
 
-## ¿Quiénes somos?
+> Seguridad privada para entornos industriales y corporativos.
 
-CyMEZ (Cymez S.A. de C.V.), fundada en 1997, es una empresa de **seguridad privada** con visión futurista: proveemos **personal, tecnología y procesos** de protección a industrias clave como **manufactura, petroquímica y energética**.
+---
 
-Con sede matriz en Reynosa, Tamaulipas, y presencia robusta en Nuevo León, Querétaro y Guanajuato, somos pioneros en el mercado fronterizo mexicano y fuimos la primera empresa privada en México en exportar servicios de seguridad privada a Estados Unidos.
+## 🛡️ Sobre Nosotros
 
-## Nuestros Servicios
+**CyMEZ (Cymez S.A. de C.V.)** es una empresa de seguridad privada fundada en 1997, especializada en la protección de sectores como manufactura, petroquímica y energía.
 
-Ofrecemos una cartera completa y afila:
-- Investigación y *risk assessment* (evaluación de riesgos).  
-- Protección ejecutiva (escoltas).  
-- Custodia de personal y carga.  
-- Monitoreo remoto.  
-- Consultoría especializada en seguridad.  
-La lista no se queda corta: cubrimos desde lo físico hasta lo digital.
+Integramos **personal capacitado**, **tecnología** y **procesos estructurados** para operar en entornos de alto riesgo.
 
-## Cobertura
+---
 
-Operamos desde la frontera sur del país hacia el centro:
-- **Matriz**: Reynosa, Tamaulipas.  
-- **Presencias**: Nuevo León, Querétaro y Guanajuato.
+## ⚙️ Capacidades
 
-## Certificaciones y Permisos
+* Investigación y evaluación de riesgos
+* Protección ejecutiva
+* Custodia de personal y carga
+* Monitoreo remoto
+* Consultoría en seguridad
 
-Porque lo que importa es hacerlo bien y con reconocimiento:
-- **Certificaciones**:
-  - BASC MEXGDL00162-1-9  
-  - ISO 9001:2015 (ER-0176/2012)  
-  - IQNET ES-0176/2012  
-  - D&B D-U-N-S: 81-263-4681
+---
 
-- **Permisos**:
-  - Estatal Tamaulipas 28-042-2020  
-  - Federal DGSP/264-11/1875  
-  - Municipal Silao, GTO. 0313-III-33/2020  
-  - Estatal Nuevo León DCSESP-502-20/I-II  
-  - Estatal Querétaro S.S.C./S.S.P./402
+## 🌎 Presencia
 
-## Contacto
+* **Matriz:** Reynosa, Tamaulipas
+* **Cobertura:** Nuevo León · Querétaro · Guanajuato
 
-Haz equipo con nosotros:
-- Dirección: 16 de septiembre #800, Col. Longoria, Reynosa, Tamaulipas, C.P. 88660
-- Teléfono: (899) 921-8770 ext. 114, 143  
-- WhatsApp: 8998 783 751  
-- Correo: *[info@cymez.com](mailto:info@cymez.com)*  
-- Línea ética para anonimato y alta ética corporativa (si ves algo raro, dilo aquí)
+---
 
-## Vision & Futuro
+## 📄 Certificaciones
 
-Ser la seguridad del mañana, hoy. Innovamos con tecnología, ética y agilidad – siempre un paso adelante para proteger lo que más importa.
+* BASC MEXGDL00162-1-9
+* ISO 9001:2015 (ER-0176/2012)
+* IQNET ES-0176/2012
+* D&B D-U-N-S: 81-263-4681
+
+---
+
+## 📬 Contacto
+
+* 🌐 https://www.cymez.com
+* 📧 [info@cymez.com](mailto:info@cymez.com)
+
+> Canal institucional disponible para comunicación general.
+
+---
+
+## 🧭 Enfoque
+
+Operamos bajo estándares internacionales, con énfasis en prevención, control de riesgos y mejora continua.
+
+---
+
+<p align="center">
+  <sub>© CyMEZ · Seguridad Privada</sub>
+</p>
